@@ -1,1 +1,0 @@
-# Quantum Portfolio Optimizer Package
